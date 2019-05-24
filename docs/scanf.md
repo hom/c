@@ -23,7 +23,7 @@
 数字| 最大字段宽度。输入达到最大宽度或第一次达到空白符时停止
 hh | 整数作为`signed char` 或 `unsigned char`
 ll | 整数作`long long` 或`unsigned long long`
-h、l或L | 
+h、l或L |
 j | 在类型转换说明后面时，表明使用`intmax_t`或`uintmax_t`。`%zd`、`%zo`
 z | 在类型转换说明后面时, 表明使用`sizeof`的返回值
 t | 在类型转换说明后面时， 表明使用表示两个指针差值的类型。`%td`、`tx`

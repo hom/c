@@ -44,5 +44,3 @@ ll | 和整型转换一起使用，表示`long long int`或`unsigned long long i
 L  | 和浮点数转换一起使用，表示`long double`类型的值
 t  | 和整型转换一起使用，表示`ptrdiff_t`类型，`ptrdiff_t`是两个指针的差值的类型(C99)
 z  | 和整型转换一起使用，表示`size_t`的值，`size_t`是`sizeof`返回的类型(C99)
-
-
